@@ -1,0 +1,108 @@
+img {
+    max-width:100%;
+}
+
+nav  {
+    background-color:#efd9ec5c ;
+}
+
+nav li a{
+    text-decoration: none;
+    background-color: transparent;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color:black;
+}
+nav li a:hover {
+    color:black;
+}
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+    padding:0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+li.empty{
+    width:90px;
+    border-top: 1px solid black;
+    top:-5px;
+    position:relative;
+}
+nav ul {
+    margin: 0 auto;
+    text-align:center;
+    padding:20px;
+    color: black;
+}
+.button:hover{
+    color:black;
+}
+body, ul {
+    margin: 0;
+    padding:0;
+}
+header{
+    background-color:#efd9ec5c;
+    text-align:center;
+    padding:40px 20px;
+    font-family: 'Antic Didone', serif;
+}
+header a:hover{
+    color: black;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.header a{
+    color:black;
+}
+
+h1{
+    padding:20px
+}
+
+section{ 
+    margin: 0 auto;
+    text-align:center;
+    padding:20px;
+    font-family: 'Antic Didone', serif;
+}
+.carousel{
+    width: 90%;
+    align-items: center;
+    margin: auto;
+}
+div{
+    margin: 0;
+    padding:15px 5px;
+}
+section div a:hover {
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+}
+section div a:hover {
+    letter-spacing: 2px;
+}
+.news{
+    background-color: #efd9ec5c;
+}
+
+.messeges{
+    background-color:#efd9ec5c;
+}
+footer{
+    font-family: 'Antic Didone', serif;
+    margin: 20px auto;
+    text-align:center;
+    padding:20px;
+}
+input[type=text]{
+    padding: solid;
+    width: 30%
+    padding: 1em;
+    border-color:#b496a9;
+    padding: 1em ;
+}
+
+
